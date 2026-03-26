@@ -1,6 +1,6 @@
 image:
   repository: lcalerom/complete-devops-project
-  tag: e91907e
+  tag: e69f304
   pullPolicy: IfNotPresent
 service:
   type: ClusterIP
